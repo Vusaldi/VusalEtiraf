@@ -50,7 +50,7 @@ async def start(event):
                        Button.inline("💌 Etiraf Yaz", data="etiraf")
                       ],
                       [Button.url('📜 Etiraf Kanalı', f'https://t.me/{kanal}')],
-                      [Button.url('📣 Support', f'https://t.me/{support}'),
+                      [Button.url('🚀 Qrup', f'https://t.me/{support}'),
                        Button.url('👨🏻‍💻 Sahibim', f'https://t.me/{sahib}')]
                     ),
                     link_preview=False)
@@ -69,7 +69,7 @@ async def handler(event):
                        Button.inline("💌 Etiraf Yaz", data="etiraf")
                       ],
                       [Button.url('📜 Etiraf Kanalı', f'https://t.me/{kanal}')],
-                      [Button.url('📣 Support', f'https://t.me/{support}'),
+                      [Button.url('🚀 Qrup', f'https://t.me/{support}'),
                        Button.url('👨🏻‍💻 Sahibim', f'https://t.me/{sahib}')]
                     ),
                     link_preview=False)
